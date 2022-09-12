@@ -2,6 +2,8 @@
 {
     display: flex;
     flex-direction: column;
+    font-size: 15px;
+    font-family: sans-serif;
 }
 
 #container input[type=text]
@@ -20,5 +22,13 @@
 #submit
 {
     width: 100px;
-   background-color: cornflowerblue;
+    height: 40px;
+   background-color:#0096FF	;
+   border: 1px solid transparent;
+   border-radius: 3px;
+   box-shadow: rgba(255, 255, 255, .4) 0 1px 0 0 inset;
+   box-sizing: border-box;
+   font-size: 18px;
+   color: white;
+ 
 }
