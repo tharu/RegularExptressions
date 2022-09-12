@@ -13,7 +13,7 @@ function validateFields()
 
     if(!isValidUrl && !isValidpassword)
     {
-        alert("Invalid password and url values are invalid");
+        alert("Password and url values are invalid");
         return false;
     }
     else if(isValidUrl && !isValidpassword)
