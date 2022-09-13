@@ -1,0 +1,85 @@
+#nav
+{
+    height:50px;
+    background-color:#00bfff;
+    color: white;
+    font-size: 23px;
+    padding: 10px;
+    vertical-align:center;
+}
+
+#outer
+{
+    font-size:18px;
+}
+
+#nav #menus span
+{
+    margin:10px;
+    padding:10px;
+}
+
+#menus
+{    
+    float:left;
+    vertical-align: center;
+}
+
+#btnLogin
+{
+    width: 100px;
+    height: 40px;
+    border-radius: 3px;
+    margin-left: 20px;
+    border :none;
+    font-size: :22px;
+    
+}
+
+#login input[type="button"]
+{
+    font-size: 18px;
+}
+
+#login
+{
+    margin:0px;
+    padding: 10px;
+    vertical-align: center;
+}
+
+#sp1
+{
+    border-right: solid 1px white;
+}
+
+#sp2
+{
+    border-right: solid 1px white;
+}
+
+#leftContent
+{
+    float:left;
+    width: 50%;
+}
+
+#rightContent
+{
+    float:left;
+    width:50%;
+}
+
+#buttons
+{
+    margin-top:20px;
+    /* right:20% */
+    float:right;
+}
+
+#outer
+{
+    width:70%;
+    /* text-align: center; */
+   align-items: center;
+}
